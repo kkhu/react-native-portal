@@ -1,0 +1,23 @@
+{
+  "name": "react-native-portal",
+  "version": "1.0.0",
+  "description": "This is react native portal that like portal in react",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkhu/react-native-portal.git"
+  },
+  "keywords": ["react native", "react native portal", "portal"],
+  "author": "hh5526",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kkhu/react-native-portal/issues"
+  },
+  "homepage": "https://github.com/kkhu/react-native-portal#readme"
+}

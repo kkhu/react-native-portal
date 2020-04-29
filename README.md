@@ -1,2 +1,4 @@
 # react-native-portal
-react native portal,  portal in react native , portal
+This is react native portal that like portal in react
+
+
