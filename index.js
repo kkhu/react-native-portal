@@ -1,7 +1,7 @@
 import * as React from 'react';
-import PortalContext from './context';
-import PortalProvider from './provider';
-import PortalGate from './gate';
+import PortalContext from './src/context';
+import PortalProvider from './src/provider';
+import PortalGate from './src/gate';
 
 const withWrapTeleport = WrappedComponent => props => (
   <PortalContext.Consumer>
